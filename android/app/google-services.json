@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "265010222129",
+    "project_id": "gocare-e041e",
+    "storage_bucket": "gocare-e041e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265010222129:android:679fd8c5ad3769af9a7110",
+        "android_client_info": {
+          "package_name": "com.gocare.gocare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265010222129-5m7g1jhj8gu52q4j12nvhd37i7kr0hc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChrOyXblI9XItz1A2i0dd4f1rK4HejXMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265010222129-5m7g1jhj8gu52q4j12nvhd37i7kr0hc7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "265010222129-6sh2d3hgfo5ri2nct17srkkdm0dk29gm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goCare.goCare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
